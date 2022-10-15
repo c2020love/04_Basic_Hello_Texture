@@ -1,0 +1,2 @@
+D:/opengl/code/NewCode/09_Hello_CameraClass/build/CMakeFiles/edit_cache.dir
+D:/opengl/code/NewCode/09_Hello_CameraClass/build/CMakeFiles/rebuild_cache.dir
